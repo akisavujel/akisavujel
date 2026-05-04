@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on data analysis
+- 🔭 I’m currently working on data science
 - 🌱 I’m currently learning machine learning, data structure, algorithms
 - 🤔 I’m looking for help with deploying machine learning models to production
 - 💬 Ask me about anything data related
